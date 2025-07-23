@@ -37,6 +37,10 @@ npm install
 ```
 ### 3. Create a .env file:
 ```bash
+nano .env
+```
+Input your privatekey
+```bash
 ACCOUNT_1_ADDRESS=0xYourAddressHere
 ACCOUNT_1_PRIVATE_KEY=0xYourPrivateKeyHere
 
