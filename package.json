@@ -4,7 +4,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [0G Labs bot, Jaine app airdrop, airdrop farming script, crypto testnet automation, DeFi swap automation, BTC to USDT swap bot, BTC to ETH auto swap, 0G Labs testnet tools, multi wallet swap bot, automated DeFi transactions, crypto farming Python script, onchain activity bot, token swap automation, ERC20 auto approval script, Python web3 defi bot, airdrop farming automation, crypto wallet interaction, testnet defi bot script, Web3 auto swap tool, scheduled crypto transactions],
+  "keywords": [],
   "author": "",
   "license": "ISC",
   "description": "A fully automated bot to farm the Jaine App airdrop on the 0G Labs testnet. It performs randomized token swaps (BTC to USDT or ETH) using multiple wallets, handles ERC-20 allowances, and pushes daily onchain activity to simulate human behavior—ideal for maximizing testnet airdrop eligibility",
